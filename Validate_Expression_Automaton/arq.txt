@@ -1,0 +1,6 @@
+bola_123 = 1
+irmao = 2
+z = 1
+mesa = 3.5
+
+irmao=mesa+1*bola_123*z/2.2;
